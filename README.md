@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning in Jiulong Lake Campus, Southeast University, Nanjing, China.
+- 📫 How to reach me: 240356423@qq.com
 
 <!--
 **lee3yearsold/lee3yearsold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
