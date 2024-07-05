@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning in Jiulonghu Campus, Southeast University, Nanjing, China.
+- 🌱 I’m currently learning at George Mason University, Fairfax, VA, USA.
 - 📫 How to reach me: 240356423@qq.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lx913&show_icons=true&theme=vue)
